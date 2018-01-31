@@ -8,7 +8,7 @@ Goal of this tutorial:
    level.
 -  Train a small neural network to classify images
 
-*This tutorial assumes that you have a basic familiarity of numpy*
+*This tutorial assumes that you have a basic familiarity of NumPy*
 
 .. Note:: 
     Make sure you have the `torch`_ and `torchvision`_ packages installed.
